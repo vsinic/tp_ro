@@ -1,8 +1,10 @@
 Templeton William
 Truong Minh Ky Valentin
 
-
+# Installation
+```
 pip install -r requirements.txt
+```
 
 # Exercice 1 
 
