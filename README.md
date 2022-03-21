@@ -7,7 +7,7 @@ pip install -r requirements.txt
 # Exercice 1 
 
 ## Outputs
-
+'''python
 L'affectation par chambre est :
         Chambre 0 : étudiant  2 et étudiant  6 | Niveau de bonheur : 14.0
         Chambre 1 : étudiante 7 et étudiante 1 | Niveau de bonheur : 17.0
@@ -34,3 +34,4 @@ L'affectation par chambre est :
         Chambre 4 : étudiante 1 et étudiante 7 | Niveau de bonheur : 17.0
 Le bonheur total vaut 75.0
 Méthode utilisée : Recuit. Temps d'exécution : 1.860e-01s
+'''
