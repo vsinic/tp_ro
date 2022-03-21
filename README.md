@@ -1,5 +1,6 @@
-Templeton William
-Truong Minh Ky Valentin
+Templeton William \\
+Truong Minh Ky Valentin\\
+
 
 # Installation
 ```
@@ -39,7 +40,7 @@ Méthode utilisée : Recuit. Temps d'exécution : 1.860e-01s
 ```
 
 
-#Exercice 2
+# Exercice 2
 
 ## Lancement
 Dans un IDE, exécuter le programme; ou `python3 ./exercice2.py`
